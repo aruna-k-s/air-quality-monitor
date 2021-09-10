@@ -1,0 +1,32 @@
+.p-10{
+  padding: 10px;
+}
+.flex-box{
+  display: flex;
+  align-items: center;
+}
+.flex-wrap{
+  flex-wrap: wrap;
+} 
+.space-evenly{
+  justify-content: space-evenly;
+}
+.flex-1{
+  flex-grow: 1;
+}
+
+.ml-10{
+  margin-left: 10px;
+}
+
+input,label{
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+@media screen and (max-width: 600px) {
+  .flex-1-mobile{
+    flex-grow: 1;
+  }
+}

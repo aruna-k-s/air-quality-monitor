@@ -1,0 +1,12 @@
+.graph{
+    width: 50vw;
+    height: 60vh;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    border-radius: 4px;
+    padding: 10px;
+}
+@media only screen and (max-width: 600px) {
+    .graph {
+      width: 90vw;
+    }
+  }
