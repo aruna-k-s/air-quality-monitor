@@ -1,5 +1,4 @@
 import './App.css';
-import useAQI from './service/useAQI';
 import React, { Component } from 'react'
 import LineGraph from './components/LineGraph';
 import Tabel from './components/Tabel';
