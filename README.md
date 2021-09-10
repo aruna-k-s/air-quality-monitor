@@ -1,6 +1,7 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project Demo Link
+[https://air-quality-monitring.netlify.app/](https://air-quality-monitring.netlify.app/)
+
 
 ## Available Scripts
 
@@ -63,7 +64,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Continuous deployment is done through netlify.
+
+### Time Taken to finish
+4 Hrs to complete the features.
+  1. implemented the graphs using recharts react library
+  2. implemented the socket connection to track continuous data tracking and minimised the screen refreshing
+  3. implemented responsive website with graphs and data tabel
 
 ### `npm run build` fails to minify
 
